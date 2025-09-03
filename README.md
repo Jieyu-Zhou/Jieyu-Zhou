@@ -1,36 +1,34 @@
-# 👋 Hi, I'm Jieyu Zhou
+# Hi, I'm Jieyu Zhou
 
-🎓 Undergraduate at **Nanjing University**, majoring in **Mathematics and Applied Mathematics**  
-🎯 Prospective **PhD applicant for Fall 2026**  
+I'm an undergraduate student at **Nanjing University**, majoring in **Mathematics and Applied Mathematics**, and applying for PhD programs in Fall 2026. I enjoy exploring problems in **statistical network analysis** and **generative models**.
 
+## Research Interests
+- **Generative modeling from a mathematical perspective** — understanding and formulating generative models (such as diffusion and consistency models) through rigorous mathematical ideas.  
+- **Machine learning for statistical problems** — applying modern machine learning tools to address challenges in statistical methodology and applications.  
 
+## Current & Past Research
 
-## 🔬 Research Interests
-- **Statistical Network Analysis**  
-- **Generative Models** (diffusion & consistency models)  
+- **University of Michigan** (Visiting student, Summer 2025)  
+  Working on *statistical network analysis*, specifically a project using **variational autoencoders (VAEs)** for link prediction, under the supervision of [Prof. Ji Zhu](https://dept.stat.lsa.umich.edu/~jizhu/).  
 
-
-
-## 🧑‍🔬 Current & Past Research
-- 📍 **University of Michigan** (Visiting student, 2025)  
-  Working on *statistical network analysis* under the supervision of [Prof. Ji Zhu](https://dept.stat.lsa.umich.edu/~jizhu/).  
-
-- ☀️ **Westlake University** (Summer 2024)  
-  Research intern at **LINS Lab**, supervised by [Prof. Tao Lin](https://en.westlake.edu.cn/faculty/tao-lin.html).  
-  Main focus: *generative models*.  
-  Special thanks to [Peng Sun](https://sp12138.github.io/) (PhD student) for guidance.  
+- **Westlake University – [LINS Lab](https://lins-lab.github.io/)** (Visiting student, Summer 2024 & Winter 2025)  
+  Research intern supervised by [Prof. Tao Lin](https://en.westlake.edu.cn/faculty/tao-lin.html).  
+  I engaged in exploratory work on:
+  - Developing improved samplers for diffusion models  
+  - Mitigating repetitions in auto-regressive models using fixed-point theory  
+  - Exploring diffusion and consistency models from a unified perspective  
+  Grateful for the guidance of [Peng Sun](https://sp12138.github.io/) (PhD student) during this period.  
 
 
 
 ## 🌐 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/jieyu-zhou-016a86376/)  
-- [Zhihu](https://www.zhihu.com/people/xu-jin-hua-n-25-11)  
-- 📧 jieyuzhou@smail.nju.edu.cn | jieyuzh@umich.edu | jieyuzhou_05@163.com  
+- [LinkedIn](https://www.linkedin.com/in/jieyu-zhou-016a86376/)   
+- 📧 jieyuzhou_05@163.com  
 
 
 
 ## 🌟 A Bit About Me
-- 🐱 Cat lover — here are some moments with cats:  
+- 🐱 I like spending time with cats — here are a few moments:  
 <p align="center">
   <img src="images/cats/with-small-yuzi.JPG" width="150">
   <img src="images/cats/with-medium-yuzi.JPG" width="150">
@@ -42,7 +40,7 @@
   <img src="images/cats/with-big-yuzi.JPG" width="225">
 </p>
 
-- 🎵 Big fan of **Cantonese songs** — [see my Spotify past 6 months album](images/cantonese-songs/spotify-past-6-months-album.JPG)  
+- 🎵 I appreciate **Cantonese songs** — [see my top album on Spotify (last 6 months)](images/cantonese-songs/spotify-past-6-months-album.JPG)  
 
-- 🌍 **Language enthusiast** — currently learning **Spanish**, passed the **DELE A1** test 🇪🇸  
+- 🌍 I am a **language enthusiast** — currently learning **Spanish** and have passed the **DELE A1** test 🇪🇸
   [see my DELE A1 score](images/DELE-A1/Spanish-DELE-A1-score.jpg)  
