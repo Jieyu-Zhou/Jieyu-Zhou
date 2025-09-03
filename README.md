@@ -1,16 +1,48 @@
-## Hi there 👋
+# 👋 Hi, I'm Jieyu Zhou
 
-<!--
-**Jieyu-Zhou/Jieyu-Zhou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Undergraduate at **Nanjing University**, majoring in **Mathematics and Applied Mathematics**  
+🎯 Prospective **PhD applicant for Fall 2026**  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🔬 Research Interests
+- **Statistical Network Analysis**  
+- **Generative Models** (diffusion & consistency models)  
+
+
+
+## 🧑‍🔬 Current & Past Research
+- 📍 **University of Michigan** (Visiting student, 2025)  
+  Working on *statistical network analysis* under the supervision of [Prof. Ji Zhu](https://dept.stat.lsa.umich.edu/~jizhu/).  
+
+- ☀️ **Westlake University** (Summer 2024)  
+  Research intern at **LINS Lab**, supervised by [Prof. Tao Lin](https://en.westlake.edu.cn/faculty/tao-lin.html).  
+  Main focus: *generative models*.  
+  Special thanks to [Peng Sun](https://sp12138.github.io/) (PhD student) for guidance.  
+
+
+
+## 🌐 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/jieyu-zhou-016a86376/)  
+- [Zhihu](https://www.zhihu.com/people/xu-jin-hua-n-25-11)  
+- 📧 jieyuzhou@smail.nju.edu.cn | jieyuzh@umich.edu | jieyuzhou_05@163.com  
+
+
+
+## 🌟 A Bit About Me
+- 🐱 Cat lover — here are some moments with cats:  
+  <p align="center">
+    <img src="images/cats/with-big-yuzi.JPG" width="200">
+    <img src="images/cats/with-medium-yuzi.JPG" width="200">
+    <img src="images/cats/with-small-yuzi.JPG" width="200">
+  </p>
+
+- 🎵 Big fan of **Cantonese songs** — here’s my Spotify past 6 months album:  
+  <p align="center">
+    <img src="images/cantonese-songs/spotify-past-6-months-album.jpg" width="400">
+  </p>
+
+- 🌍 **Language enthusiast** — currently learning **Spanish**, passed the **DELE A1** test 🇪🇸  
+  <p align="center">
+    <img src="images/DELE-A1/Spanish-DELE-A1-score.jpg" width="400">
+  </p>
