@@ -32,17 +32,17 @@
 ## 🌟 A Bit About Me
 - 🐱 Cat lover — here are some moments with cats:  
 <p align="center">
-  <img src="images/cats/with-small-yuzi.JPG" width="200">
-  <img src="images/cats/with-medium-yuzi.JPG" width="200">
-  <img src="images/cats/with-a-wild-cat.JPG" width="200">
+  <img src="images/cats/with-small-yuzi.JPG" width="150">
+  <img src="images/cats/with-medium-yuzi.JPG" width="150">
+  <img src="images/cats/with-a-wild-cat.JPG" width="150">
 </p>
 
 <p align="center">
-  <img src="images/cats/with-another-wild-cat.JPG" width="300">
-  <img src="images/cats/with-big-yuzi.JPG" width="300">
+  <img src="images/cats/with-another-wild-cat.JPG" width="225">
+  <img src="images/cats/with-big-yuzi.JPG" width="225">
 </p>
 
-- 🎵 Big fan of **Cantonese songs** — [see my Spotify past 6 months album](images/cantonese-songs/spotify-past-6-months-album.jpg)  
+- 🎵 Big fan of **Cantonese songs** — [see my Spotify past 6 months album](images/cantonese-songs/spotify-past-6-months-album.JPG)  
 
 - 🌍 **Language enthusiast** — currently learning **Spanish**, passed the **DELE A1** test 🇪🇸  
   [see my DELE A1 score](images/DELE-A1/Spanish-DELE-A1-score.jpg)  
