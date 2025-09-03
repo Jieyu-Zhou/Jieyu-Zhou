@@ -31,18 +31,18 @@
 
 ## 🌟 A Bit About Me
 - 🐱 Cat lover — here are some moments with cats:  
-  <p align="center">
-    <img src="images/cats/with-big-yuzi.JPG" width="200">
-    <img src="images/cats/with-medium-yuzi.JPG" width="200">
-    <img src="images/cats/with-small-yuzi.JPG" width="200">
-  </p>
+<p align="center">
+  <img src="images/cats/with-small-yuzi.JPG" width="200">
+  <img src="images/cats/with-medium-yuzi.JPG" width="200">
+  <img src="images/cats/with-a-wild-cat.JPG" width="200">
+</p>
 
-- 🎵 Big fan of **Cantonese songs** — here’s my Spotify past 6 months album:  
-  <p align="center">
-    <img src="images/cantonese-songs/spotify-past-6-months-album.jpg" width="400">
-  </p>
+<p align="center">
+  <img src="images/cats/with-another-wild-cat.JPG" width="300">
+  <img src="images/cats/with-big-yuzi.JPG" width="300">
+</p>
+
+- 🎵 Big fan of **Cantonese songs** — [see my Spotify past 6 months album](images/cantonese-songs/spotify-past-6-months-album.jpg)  
 
 - 🌍 **Language enthusiast** — currently learning **Spanish**, passed the **DELE A1** test 🇪🇸  
-  <p align="center">
-    <img src="images/DELE-A1/Spanish-DELE-A1-score.jpg" width="400">
-  </p>
+  [see my DELE A1 score](images/DELE-A1/Spanish-DELE-A1-score.jpg)  
