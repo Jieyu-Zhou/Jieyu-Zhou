@@ -9,10 +9,10 @@ I'm an undergraduate student at **Nanjing University**, majoring in **Mathematic
 ## Current & Past Research
 
 - **University of Michigan** (Visiting student, Summer 2025)  
-  Working on *statistical network analysis*, specifically a project using **variational autoencoders (VAEs)** for link prediction, under the supervision of [Prof. Ji Zhu](https://dept.stat.lsa.umich.edu/~jizhu/).  
+  Working on *statistical network analysis*, specifically a project using **variational autoencoders (VAEs)** for link prediction, under the supervision of **[Prof. Ji Zhu]**(https://dept.stat.lsa.umich.edu/~jizhu/).  
 
-- **Westlake University – [LINS Lab](https://lins-lab.github.io/)** (Visiting student, Summer 2024 & Winter 2025)  
-  Research intern supervised by [Prof. Tao Lin](https://en.westlake.edu.cn/faculty/tao-lin.html).  
+- **Westlake University** – [LINS Lab](https://lins-lab.github.io/) (Visiting student, Summer 2024 & Winter 2025)  
+  Research intern supervised by **[Prof. Tao Lin]**(https://en.westlake.edu.cn/faculty/tao-lin.html).  
   I engaged in exploratory work on:
   - Developing improved samplers for diffusion models  
   - Mitigating repetitions in auto-regressive models using fixed-point theory  
